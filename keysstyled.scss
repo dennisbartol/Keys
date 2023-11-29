@@ -4,3 +4,27 @@ $font-family_1: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida 
 $background-color_1: #222;
 $background-color_2: ghostwhite;
 
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: $font-family_1;
+}
+body {
+	height: 100vh;
+	background-color: $background-color_1;
+}
+#result {
+	background-color: $background-color_2;
+	width: 75vw;
+	max-width: 600px;
+	height: 325px;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	top: 50%;
+	left: 50%;
+	padding: 20px 20px;
+	text-align: center;
+	color: $color_1;
+	font-size: 3em;
+	border-radius: 15px;
