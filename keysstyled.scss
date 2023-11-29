@@ -28,3 +28,20 @@ body {
 	color: $color_1;
 	font-size: 3em;
 	border-radius: 15px;
+	span {
+		&:nth-child(1) {
+			color: $color_2;
+			font-size: 1.25em;
+			display: block;
+			text-align: center;
+			background-color: $background-color_1;
+		}
+		&:nth-child(2) {
+			font-size: 1em;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+		}
+	}
+}
+
