@@ -1,4 +1,4 @@
 ### ==========< Which key did you press ? >=========
 
 -Please note: This version supports desktop machines and therefore physical keyboards.</br>
--Touchscreen support is not built into this public version. 
+-Touchscreen support is not built into this free, public version. 
