@@ -42,7 +42,7 @@ body {
     display: block; 
     text-align: center;
     background-color: #222;
-    
+    width: 75vw; 
     
 }
 
@@ -54,6 +54,7 @@ body {
     /* padding: 20px 0px; */
 
 }
+
 
 
 
