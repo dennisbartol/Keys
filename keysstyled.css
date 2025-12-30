@@ -29,6 +29,11 @@ body {
     border-radius: 15px; 
     /* padding: 20px 0px; */ 
     
+    display: flex;
+    flex-direction: column;
+    justify-content: center;   /* vertical centering */
+    align-items: center;  
+    
 }
 
 #result span:nth-child(1) {
@@ -49,5 +54,6 @@ body {
     /* padding: 20px 0px; */
 
 }
+
 
 
