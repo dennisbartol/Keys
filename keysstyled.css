@@ -47,6 +47,7 @@ body {
     display: block; 
     text-align: center;
     background-color: #222;
+    align-self: stretch; 
     /* width: 75vw; */
     
 }
@@ -59,6 +60,7 @@ body {
     /* padding: 20px 0px; */
 
 }
+
 
 
 
