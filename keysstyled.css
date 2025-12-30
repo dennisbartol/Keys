@@ -9,8 +9,8 @@
 body { 
     height: 100vh; 
     /* background-color: #222; */
-    /* background: linear-gradient(135deg, #1e1e1e /*, #243b55*/); */
-    background: linear-gradient(135deg, #222, #1b2735);
+    background: linear-gradient(135deg, #1e1e1e /*, #243b55*/); 
+    /* background: linear-gradient(135deg, #222, #1b2735);*/
 
 }
 
@@ -55,6 +55,7 @@ body {
     /* padding: 20px 0px; */
 
 }
+
 
 
 
