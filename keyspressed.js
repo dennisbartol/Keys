@@ -7,8 +7,9 @@ window.addEventListener("keydown", (event) =>{
   <span>${event.key === " " ? "Space" : event.key}</span> 
   <span>Keyboard key index: ${event.keyCode}</span>
    `;
-    // Edit: .keyCode is deprecated
+    // Edit: .keyCode being deprecated => event.code
 });
+
 
 
 
