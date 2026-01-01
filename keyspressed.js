@@ -5,10 +5,11 @@ window.addEventListener("keydown", (event) =>{
   
   document.getElementById("result").innerHTML = `The keyboard key which has been pressed is: 
   <span>${event.key === " " ? "Space" : event.key}</span> 
-  <span>Keyboard key index: ${event.code}</span>
+  <span>Keyboard key index: ${event.keyCode}</span>
    `;
     // Edit late '25: .keyCode being deprecated => event.code
 });
+
 
 
 
