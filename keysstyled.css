@@ -11,7 +11,7 @@ body {
     /* background-color: #222; */
     /* background: linear-gradient(135deg, #222, #1e1e1e); */ /* #243b55 */
     
-    background: linear-gradient(135deg, #4169e1, #89CFF0 
+    background: linear-gradient(135deg, #4169e1, #89CFF0); 
 
     /* background: linear-gradient(135deg, #222, #1b2735);*/
 
@@ -64,6 +64,7 @@ body {
     /* padding: 20px 0px; */
 
 }
+
 
 
 
