@@ -1,4 +1,4 @@
-### ==========< Which key did you press ? >=========
+### =======< Which key did you press ? >=======
 
 Touch a random key on your keyboard, and see which key has been pressed. 
 
